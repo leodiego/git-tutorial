@@ -1,6 +1,6 @@
 $ git init 
-$ git config --global user.name ‘Leo Fu’
-$ git config --global user.email ‘leo.uds@gmail.com’
+$ git config --global user.name ‘John doe’
+$ git config --global user.email ‘johndoe@gmail.com’
 $ git add <file> (to staging area)
 $ git add *.html (add all html files to staging area)
 $ git add . (add all files to staging area)
